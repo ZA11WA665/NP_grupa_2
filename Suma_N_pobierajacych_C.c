@@ -10,12 +10,14 @@ int main()
     scanf("%d",&N);
     
     int tab[N];
+    
     for (i=0;i<N;i++)
     {
-    printf("podaj liczbe:");
-    scanf("%d",&x);
-    suma=suma+x;
+        printf("podaj liczbe:");
+        scanf("%d",&x);
+        suma=suma+x;
     }
+
     printf("Suma wynosi:%d",suma);
 
     return 0;
