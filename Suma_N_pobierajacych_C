@@ -7,14 +7,14 @@ int main()
     int suma=0;
     printf("Podaj ilosc liczb, ktore chcesz sumowac:");
     scanf("%d",&N);
-int tab[N];
-for (i=0;i<N;i++)
-{
+    int tab[N];
+    for (i=0;i<N;i++)
+    {
     printf("podaj liczbe:");
     scanf("%d",&x);
     suma=suma+x;
-}
-printf("Suma wynosi:%d",suma);
+    }
+    printf("Suma wynosi:%d",suma);
 
     return 0;
 }
