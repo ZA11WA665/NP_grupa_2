@@ -3,7 +3,7 @@
 
 int main()
 {
-    int N,i,x;
+    int i, N, x;
     int suma=0;
     printf("Podaj ilosc liczb, ktore chcesz sumowac:");
     scanf("%d",&N);
