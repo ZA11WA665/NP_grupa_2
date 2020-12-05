@@ -5,8 +5,10 @@ int main()
 {
     int i, N, x;
     int suma=0;
+    
     printf("Podaj ilosc liczb, ktore chcesz sumowac:");
     scanf("%d",&N);
+    
     int tab[N];
     for (i=0;i<N;i++)
     {
