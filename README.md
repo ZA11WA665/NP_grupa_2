@@ -2,6 +2,6 @@
 Projekt grupy 2:
 
 - Piotr Zawidzki
-- Zuza Tarazewicz
-- Ola Kania
+- Zuzanna Tarazewicz
+- Aleksandra Kania
 - Filip Łuczak
