@@ -4,16 +4,16 @@
 
 int main() {
     srand(time(NULL));
-    int random;
+    int rando;
 
     for (; ;) {
-        random = rand() % 6 + 1;
-        if (random == 6) {
+        rando = rand() % 6 + 1;
+        if (rando == 6) {
             printf("You won! You draw %d!\n", random);
             break;
         }
         else {
-            printf("%d\n", random);
+            printf("%d\n", rando);
         }
     }
 
