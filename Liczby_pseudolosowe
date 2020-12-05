@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+    srand(time(NULL));
+    int random;
+
+    for (; ;) {
+        random = rand() % 6 + 1;
+        if (random == 6) {
+            printf("You won! You draw %d!\n", random);
+            break;
+        }
+        else {
+            printf("%d\n", random);
+        }
+    }
+
+    return 0;
+}
