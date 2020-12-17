@@ -6,7 +6,7 @@ int main()
     int i, N, x;
     int suma=0;
     
-    printf("Podaj ilosc liczb, ktore chcesz sumowac:");
+    printf("Podaj ilosc liczb, ktore chcesz zsumowac: /n");
     scanf("%d",&N);
     
     int tab[N];
@@ -18,7 +18,7 @@ int main()
         suma=suma+x;
     }
 
-    printf("Suma wynosi:%d",suma);
+    printf("Suma wynosi: %d /n",suma);
 
     return 0;
 }
