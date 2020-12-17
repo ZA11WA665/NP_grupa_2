@@ -3,17 +3,17 @@
 
 int main()
 {
-    int i, N, x;
+    int i, ilosc, x;
     int suma=0;
     
     printf("Podaj ilosc liczb, ktore chcesz zsumowac: /n");
-    scanf("%d",&N);
+    scanf("%d",&ilosc);
     
     int tab[N];
     
     for (i=0;i<N;i++)
     {
-        printf("podaj liczbe:");
+        printf("Podaj liczbe:");
         scanf("%d",&x);
         suma=suma+x;
     }
