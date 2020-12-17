@@ -9,9 +9,9 @@ int main()
     printf("Podaj ilosc liczb, ktore chcesz zsumowac: /n");
     scanf("%d",&ilosc);
     
-    int tab[N];
+    int tab[ilosc];
     
-    for (i=0;i<N;i++)
+    for (i=0;i<ilosc;i++)
     {
         printf("Podaj liczbe:");
         scanf("%d",&x);
