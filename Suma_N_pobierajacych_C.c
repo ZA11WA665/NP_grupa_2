@@ -18,7 +18,7 @@ int main()
         suma=suma+x;
     }
 
-    printf("Suma wynosi: %d /n",suma);
+    printf("Suma liczb wynosi: %d /n",suma);
 
     return 0;
 }
