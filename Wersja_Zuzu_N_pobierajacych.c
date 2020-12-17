@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int x;
     int sum = 0;
     int lic;
@@ -10,7 +11,8 @@ int main() {
 
     printf("Podaj liczby, ktore chcesz zsumowac: \n");
 
-    while(x--) {
+    while(x--)
+    {
         scanf("%d", &lic);
         sum += lic;
     }
