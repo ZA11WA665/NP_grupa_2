@@ -1,3 +1,9 @@
+commit 722acae04522b5c7e9093b8508b6e713adc5e3d3
+Author: Aleksandra Kania <alekan001@utp.edu.pl>
+Date:   Sun Dec 20 19:29:52 2020 +0100
+
+    Added current git log file.
+
 commit 4649893ceb6cc663948a6ebd93b11bfe4f6bf16a
 Merge: c6a578e b70955c
 Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
