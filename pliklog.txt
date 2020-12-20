@@ -1,0 +1,239 @@
+commit 4649893ceb6cc663948a6ebd93b11bfe4f6bf16a
+Merge: c6a578e b70955c
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Thu Dec 17 18:37:47 2020 +0100
+
+    Merge pull request #7 from InformatykaStosowanaUTP20202024/main
+    
+    P_R
+
+commit b70955c61b5ccf3826f2c48f1f02c8172e534f77
+Merge: c6a578e 4f8b97b
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 17 18:35:47 2020 +0100
+
+    Merge pull request #1 from InformatykaStosowanaUTP20202024/ZA11WA665-patch-1
+    
+    Update Sprawdzanie wielkości litery.c
+
+commit 4f8b97b3dd2579487f3b41a3d50b7e5142545978
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 17 18:34:22 2020 +0100
+
+    Update Sprawdzanie wielkości litery.c
+
+commit c6a578e74c9bfed562f6cdd5b33dbcb76a299f1e
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 18:31:11 2020 +0100
+
+    Update Suma_N_pobierajacych_C.c
+
+commit 3bc1d5fa225d55e70d54dda832c257043a5d92e1
+Author: Kaniaola <73931951+Kaniaola@users.noreply.github.com>
+Date:   Thu Dec 17 18:27:16 2020 +0100
+
+    Update Suma_N_pobierajacych_C.c
+
+commit 268981141fd8efe9c8d3592ebc3dd0e3b1492766
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 18:24:47 2020 +0100
+
+    Rename Sprawdzanie wielkości litery to Sprawdzanie wielkości litery.c
+
+commit d8c917a0404fadb7c7160d9f0d62b5ecc2cd10ba
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 18:22:48 2020 +0100
+
+    Update Suma_N_pobierajacych_C.c
+
+commit 785861d04f1d3ca0fdaee2bd038ae420ba1c1897
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 18:21:57 2020 +0100
+
+    Update Suma_N_pobierajacych_C.c
+
+commit 28e6a0faf1f203b6b51c821e1c6e259eba5b2442
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 17 18:11:17 2020 +0100
+
+    Update Wersja_Zuzu_N_pobierajacych.c
+
+commit 2802f679d718dcca98eb6554657b3aa3a5629611
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 17 18:10:40 2020 +0100
+
+    Update Sprawdzanie wielkości litery
+
+commit 6eb0e760491fc2e437bda920b0d818a9047762d0
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 17 18:09:15 2020 +0100
+
+    Update Sprawdzanie wielkości litery
+
+commit 76106c8d8902added0b991bc6b14f157eb01a63d
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 17 18:07:29 2020 +0100
+
+    Update Sprawdzanie wielkości litery
+
+commit 70b568476db417eee26adaeda53296faab196c8f
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 17 17:57:42 2020 +0100
+
+    Create Sprawdzanie wielkości litery
+
+commit 347f4b01f88f2d2a3d750d6cef6b040e936db33d
+Merge: cbb0e57 cd15bbd
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 12:54:39 2020 +0100
+
+    Merge pull request #5 from ZA11WA665/Drekkard-patch-1
+    
+    Code improvements
+
+commit cd15bbd93d624151feacedb2ffb2a8ebba91300c
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 12:53:31 2020 +0100
+
+    Rename branch_suma_N_liczb_FilipŁ.c to suma_N_liczb_FilipŁ.c
+
+commit b40404df509ff736f0f7f0ba513a388e491820c2
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 12:53:19 2020 +0100
+
+    Delete suma_N_liczb_FilipŁ.c
+
+commit 4ce4125f6349f2ea77ea24cbd62f2470533acb1c
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 12:50:28 2020 +0100
+
+    Create branch_suma_N_liczb_FilipŁ.c
+
+commit cbb0e57796cfb84f34bf0dc3df1234f3e8537592
+Author: Drekkard <73931822+Drekkard@users.noreply.github.com>
+Date:   Thu Dec 17 12:44:57 2020 +0100
+
+    Create suma_N_liczb_FilipŁ.c
+
+commit 6d975d76c112bf2eecd5de03069ab9b2b7bea971
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 20:45:02 2020 +0100
+
+    Update README.md
+
+commit a1282b01052da19ac0db985a74a915fdc5c3be81
+Author: Aleksandra Kania <alekan001@utp.edu.pl>
+Date:   Sat Dec 5 20:02:36 2020 +0100
+
+    Add new file to repository: Tabliczka_mnożenia.c
+
+commit bf11f259b2a5f4b421ea9fb6684730c212122662
+Merge: 8a058c9 be6491c
+Author: Kaniaola <73931951+Kaniaola@users.noreply.github.com>
+Date:   Sat Dec 5 19:54:24 2020 +0100
+
+    Merge pull request #4 from ZA11WA665/code-format
+    
+    Code format improvements
+
+commit 8a058c9d8b23213be5bd48851c24f7d6039b9c89
+Author: Aleksandra Kania <alekan001@utp.edu.pl>
+Date:   Sat Dec 5 19:43:39 2020 +0100
+
+    Added missing new lines
+
+commit be6491c422377577575d2ed7549887f064596a47
+Author: Aleksandra Kania <alekan001@utp.edu.pl>
+Date:   Sat Dec 5 19:35:23 2020 +0100
+
+    Improved code formatting - Wersja_Zuzu_N_pobierających
+
+commit 207e3631da26795b9eea6956525d9c94654724ad
+Author: Aleksandra Kania <alekan001@utp.edu.pl>
+Date:   Sat Dec 5 19:33:46 2020 +0100
+
+    Improved code formatting - Suma_N_pobierajacych_C
+
+commit d9dbc4e3689ae979612112d28dd0fef9fb5638be
+Author: Aleksandra Kania <alekan001@utp.edu.pl>
+Date:   Sat Dec 5 19:20:28 2020 +0100
+
+    Modified readme file
+
+commit 0719161e9df26d306dd680eedf251a48fd0488e2
+Author: Aleksandra Kania <alekan001@utp.edu.pl>
+Date:   Sat Dec 5 19:07:43 2020 +0100
+
+    Added extension to file names.
+
+commit 0aaa3e27fe5d96352a4e7380db3735cab7f3ba4e
+Merge: 8c959bb 058145c
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:57:43 2020 +0100
+
+    Merge pull request #3 from ZA11WA665/zuzux3-patch-1-1
+    
+    Create Wersja_Zuzu_N_pobierajacych
+
+commit 058145cec05e1cf40fdd2846cc2762ea8c1b6ba5
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:57:23 2020 +0100
+
+    Create Wersja_Zuzu_N_pobierajacych
+
+commit 8c959bbeb1ca6ea9ab542c62327103170d05ada0
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:55:14 2020 +0100
+
+    Update Suma_N_pobierajacych_C
+
+commit 6149f527dbf2d8a4eaf0320b517d252a95de5bf7
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:53:14 2020 +0100
+
+    Update Suma_N_pobierajacych_C
+
+commit 745977d33aef45214dcdfb56370b1673a9f55e9e
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:52:30 2020 +0100
+
+    Delete Liczby_pseudolosowe
+
+commit 1bdb857f4a7c74aafc54a8fbbd8ed4d2db7bc421
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:50:26 2020 +0100
+
+    Update Liczby_pseudolosowe
+
+commit 488c1495fb565155142df980550a9c0c0e5a3d5c
+Merge: e89b876 869395d
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:45:51 2020 +0100
+
+    Merge pull request #2 from ZA11WA665/zuzux3-patch-1
+    
+    Create Liczby_pseudolosowe
+
+commit 869395d6aff3a895673de73cc16b51c860c9ae80
+Author: Zuzanna Tarazewicz <68703753+zuzux3@users.noreply.github.com>
+Date:   Sat Dec 5 18:45:35 2020 +0100
+
+    Create Liczby_pseudolosowe
+
+commit e89b8761aa887b99ce5c08f15cdf42c146617c32
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 3 13:46:00 2020 +0100
+
+    Create Suma_N_pobierajacych_C
+
+commit dd139387e72042869463124d0ee8bd0df162ef69
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 3 13:42:35 2020 +0100
+
+    Update README.md
+
+commit 25f807fbe02e73604fbd147bad8b8eec983c62a5
+Author: ZA11WA665 <75428369+ZA11WA665@users.noreply.github.com>
+Date:   Thu Dec 3 13:39:20 2020 +0100
+
+    Initial commit
