@@ -5,3 +5,5 @@ Projekt grupy 2:
 - Zuzanna Tarazewicz
 - Aleksandra Kania
 - Filip Łuczak
+
+Git rebase wykokany z uyciem pliku pliklog.txt.
